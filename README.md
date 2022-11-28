@@ -1,5 +1,2 @@
-# UC San Diego CSE-40477
-# C++ III Object Oriented Programming
-
-Hw 1-8
-Proj 1 & 2
+# CSE-40477 Fall 2022
+C++ III Object Oriented Programming at UC San Diego
